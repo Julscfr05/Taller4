@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+::placeholder {
+    color: rgb(192, 192, 192);
+}
+
+form {
+    text-align: center;
+}
+
+fieldset {
+    width: 500px;
+    text-align: center;
+}
+
+.form-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
